@@ -1,2 +1,2 @@
 # randomusers
-An application to begin with Andorid Clean Architechture using dummy users list.
+An application to begin with Android Clean Architecture using dummy users list.
